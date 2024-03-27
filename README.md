@@ -77,19 +77,19 @@ This is a student-teacher dashboard application built using Python and MySQL. Th
 
 ## Screenshots
 
-![Login Screen](screenshots/login.png)
+![Login Screen](login.png)
 *Login Screen*
 
-![Register_Interface](screenshots/register.png)
+![Register_Interface](register.png)
 *Register Interface*
 
-![Home Interface](screenshots/home.png)
+![Home Interface](home.png)
 *Home Interface*
 
-![Profile Management](screenshots/profile.png)
+![Profile Management](profile.png)
 *Profile Management*
 
-![Group Management](screenshots/groups.png)
+![Group Management](groups.png)
 *Group Management*
 
 
